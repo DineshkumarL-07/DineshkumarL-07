@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Analysis**
 
-- 💬 Ask me about **-> Python, Data Structure and Algorithms, Object Oriented Programming, Excel**
+- 💬 Ask me about **-> Python, Data Structure and Algorithms, Object Oriented Programming, Excel,SQL**
 
 - 📫 How to reach me **ldineshkumar38@gmail.com**
 
