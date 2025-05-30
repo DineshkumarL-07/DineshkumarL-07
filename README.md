@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkumarl-07&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkumarl-07" /> </p>
 
-- 🌱 I’m currently learning **Backend Development, Django**, FastAPI**
+- 🌱 I’m currently learning **Backend Development, Django**, **FastAPI
 
 - 💬 Ask me about **-> Python, Data Structure and Algorithms, Object Oriented Programming, Excel, SQL**
 
