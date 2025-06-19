@@ -58,5 +58,3 @@ Let's turn logic into life — one function at a time 🧬
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshkumarl-07&show_icons=true&locale=en&layout=compact" alt="dineshkumarl-07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkumarl-07&show_icons=true&locale=en" alt="dineshkumarl-07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkumarl-07&" alt="dineshkumarl-07" /></p>
